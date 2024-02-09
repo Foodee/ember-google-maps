@@ -103,7 +103,7 @@
     "webpack": "^5.89.0"
   },
   "engines": {
-    "node": ">= 18"
+    "node": ">= 14"
   },
   "ember": {
     "edition": "octane"
@@ -142,8 +142,5 @@
       "release": true,
       "tokenRef": "GITHUB_AUTH"
     }
-  },
-  "volta": {
-    "node": "18.19.0"
   }
 }
